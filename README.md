@@ -1,6 +1,6 @@
 # Off-Platform Project: Fotomatic
 
-Fix a broken version of a responsive website in this project!
+**Fix a broken version of a responsive website in this project!**
 
 Welcome to my project repository where I've taken on the challenge of repairing a malfunctioning responsive website named "Fotomatic". Throughout this project, I used detailed specifications as my guide to identify and correct errors in the code. The goal was to enhance the website's functionality, ensuring it performs flawlessly across different devices and screen sizes.
 
